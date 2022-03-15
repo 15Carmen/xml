@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE clientela SYSTEM "Actividad10.dtd">
+
+<clientela>
+
+    <cliente>
+
+        <!--ESTA SOY YOOO-->
+        <nombre>Carmen</nombre>
+        <apellidos>Martín Núñez </apellidos>
+        <direccion piso="3" puerta="I"> Calle de la Llorería, 13 </direccion>
+        <telefono>647128943</telefono>
+
+    </cliente>
+
+    <cliente>
+
+        <!--esta es una persona inventada-->
+        <nombre>Sergio</nombre>
+        <apellidos>Castillo Rey </apellidos>
+        <direccion piso="4" puerta="D"> Calle de la Amargura, 5 </direccion>
+        <telefono>652548765</telefono>
+
+    </cliente>
+
+    <cliente>
+
+        <nombre>Carla</nombre>
+        <apellidos>Luca de Tena </apellidos>
+        <direccion piso="7" puerta="A"> Calle de Dios, 8</direccion>
+        <telefono>765432885</telefono>
+
+    </cliente>
+
+</clientela>

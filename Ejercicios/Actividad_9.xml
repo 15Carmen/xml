@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE biblioteca SYSTEM "Actividad9.dtd">
+
+<biblioteca>
+    <libro>
+        <autor>Elvira Lindo</autor>
+        <titulo> Manolito Gafotas </titulo>
+        <ISBN> 5646465464 </ISBN>
+        <precio>20€
+    </libro>
+
+    <libro>
+        <autor>Laura Gallego</autor>
+        <titulo>El bestiario de Axlin </titulo>
+        <ISBN> 89496561641 </ISBN>
+        <precio>20€
+    </libro>
+
+    <libro>
+        <autor> Chris Pueyo </autor>
+        <titulo> El chico de las estrellas </titulo>
+        <ISBN> 54654163165486 </ISBN>
+        <precio>20€
+    </libro>
+</biblioteca>
+

@@ -1,0 +1,12 @@
+<!ELEMENT clientela (cliente)+>
+<!ELEMENT cliente (nombre, apellidos, direccion, telefono, suceso?)>
+ <!ELEMENT nombre (#PCDATA)>
+ <!ELEMENT apellidos (#PCDATA)>
+ <!ELEMENT direccion (#PCDATA)>
+ <!ATTLIST direccion
+           piso CDATA #REQUIRED
+           puerta CDATA #REQUIRED>
+<!ELEMENT telefono (#PCDATA)>
+<!ELEMENT suceso (#PCDATA)>
+
+<!ENTITY usuario "Debemos informale que ">
